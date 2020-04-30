@@ -1,7 +1,7 @@
 
 # Cyberhub CTF Guidebook
 
-This is an English translation of the important CTF guidebook provided by [SAFCSP's](https://github.com/safcsp) [Cyberhub](https://cyberhub.sa/) initiative for all university students who are interested in Cybersecurity. There will be more collegiate-level CTFs supported by Cyberhub initiative in the future where you can compete with fellow students and win different prizes. I will also provide some add-ons to the guidebook and answer some of the most frequently asked questions and correct the false conceptions that most students tend to say and ask about before participating in a CTF competition for the first time. I hope you find it useful! 
+This is an English translation of the important CTF guidebook provided by SAFCSP's [Cyberhub](https://cyberhub.sa/) initiative for all university students who are interested in Cybersecurity. There will be more collegiate-level CTFs supported by Cyberhub initiative in the future where you can compete with fellow students and win different prizes. I will also provide some add-ons to the guidebook and answer some of the most frequently asked questions and correct the false conceptions that most students tend to say and ask about before participating in a CTF competition for the first time. I hope you find it useful! 
 
 ## Content
 
