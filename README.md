@@ -186,7 +186,7 @@ and the password is ‘kali’ as well.
 
 ## Frequently asked questions (FAQ)
 
-### “Many competitors will be skilled and better than me and I’m most likely far from winning a CTF competition now. I have to be professional and skilled to participate, so I will take professional certifications and courses first. Am I right?”
+### Many competitors will be skilled and better than me and I’m most likely far from winning a CTF competition now. I have to be professional and skilled to participate, so I will take professional certifications and courses first. Am I right?
 
 False. You don’t have to be skilled nor professional to participate in a CTF competition. Of course taking courses will help you achieve better results but the goal of doing CTF competitions is to simply learn and pick up new skills while you go. The CTF winners will most likely be a group of people who participated in hundreds of CTF challenges before they won their first competition. So be brave!
 
