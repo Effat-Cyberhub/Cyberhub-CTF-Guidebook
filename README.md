@@ -126,7 +126,7 @@ Various challenges that do not depend on specific knowledge and depend mainly on
 - [Vulnhub](https://www.vulnhub.com/): – vulnerable machines you can practice or for your pentest laboratory
 - [CTF Resources](http://ctfs.github.io/resources/): – a repository and an archive of general topics for CTF and is somehow the same with Trail of Bits CTF Guide
 - [Reddit’s securityCTF](https://www.reddit.com/r/securityCTF/): – /r/securityCTF
-- [Forensics Wiki(http://forensicswiki.org/wiki/Main_Page): – a wiki designed for computer forensics
+- [Forensics Wiki](http://forensicswiki.org/wiki/Main_Page): – a wiki designed for computer forensics
 
 
 ## Useful CTF tools
