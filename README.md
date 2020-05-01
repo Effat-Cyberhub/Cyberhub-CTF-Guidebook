@@ -1,7 +1,7 @@
 
 # Cyberhub CTF Guidebook
 
-This is an English translation of the important CTF guidebook provided by SAFCSP's [Cyberhub](https://cyberhub.sa/) initiative for all university students who are interested in Cybersecurity. There will be more collegiate-level CTFs supported by Cyberhub initiative in the future where you can compete with fellow students and win different prizes. I will also provide some add-ons to the guidebook and answer some of the most frequently asked questions and correct the false conceptions that most students tend to say and ask about before participating in a CTF competition for the first time. I hope you find it useful! 
+This is an English translation of the important CTF guidebook provided by SAFCSP's [Cyberhub](https://cyberhub.sa/) initiative for all university students who are interested in Cybersecurity. There will be more collegiate-level CTFs supported by Cyberhub initiative in the future where you can compete with fellow students and win different prizes. I will also provide some add-ons to the guidebook and answer some of the most frequently asked questions and correct the false conceptions that most students tend to say and ask before participating in a CTF competition for the first time. I hope you find it useful! 
 
 ## Content
 
@@ -201,6 +201,8 @@ It will be helpful to have a decent understanding of the administration of Linux
 ### How can I solve challenges during the competition if I have no experience? 
 
 Become a Google search expert! To prepare and compete in a CTF competition, you will need to find and read a lot of write-ups. You can find results of past CTF events with various solutions, and you will always find different solutions to the same problems. Try to incorporate some of those techniques into your bag. 
+
+-----------------------------------
 
 I wrote this in one go so it might have some mistakes. I've tried to structure it so you can learn from it, but if you have questions along the way, contact [me](https://twitter.com/majdcs). 
 
