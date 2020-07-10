@@ -141,7 +141,7 @@ Various challenges that do not depend on specific knowledge and depend mainly on
 | XORTool | SQLMap    |  Netcat | Nm        |  Gimp | Foremost |
 | Sage | W3af      |  telnet |  Objdump	| Audacity	| Volatility |
 | Cryptool | XSSer   	|  nmap     | Strace  	| MP3Stego	|Wireshark|
-| John the Ripper |  DVNA	|    nmap  	| JD-GUI 	|  Ffmpeg | Audacity|
+| John the Ripper |  DVNA	|    Nikto  	| JD-GUI 	|  Ffmpeg | Audacity|
 
 
 ## Knowing your favorite type of challenges:
